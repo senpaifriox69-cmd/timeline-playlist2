@@ -45,22 +45,22 @@ timeline = [
     {
         "title": "When I First Noticed My Feelings for You",
         "description": "That moment when I knew I was going on a crazy ride.",
-        "song": "https://open.spotify.com/embed/track/48CiA3IjkNZiyl6S6UbPCy&start=33"
+        "song": "https://open.spotify.com/embed/track/48CiA3IjkNZiyl6S6UbPCy?start=33"
     },
     {
         "title": "When You Started to Matter More",
         "description": "And I didn’t even realize I was falling for you.",
-        "song": "https://open.spotify.com/embed/track/06zLpakRZhozCnk3bZnGFT&start=22"
+        "song": "https://open.spotify.com/embed/track/06zLpakRZhozCnk3bZnGFT?start=22"
     },
     {
         "title": "Our Sponty Galas",
         "description": "Doing random things with no plans — cherishing every single moment of it",
-        "song": "https://open.spotify.com/embed/track/6t4CmQGucLORsKZF4M6NNC&start=42"
+        "song": "https://open.spotify.com/embed/track/6t4CmQGucLORsKZF4M6NNC?start=42"
     },
     {
         "title": "Right Now",
         "description": "This is where my heart is.",
-        "song": "https://open.spotify.com/embed/track/0kE1SmlJNLg14dgdo9kJws&start=174"
+        "song": "https://open.spotify.com/embed/track/0kE1SmlJNLg14dgdo9kJws?start=174"
     }
 ]
 
@@ -88,4 +88,5 @@ HELLOOO MERRY CHRISTMAS TO YOU MI FAVORITE GIRL, I know this isn't much for a Ch
 
 </div>
 """, unsafe_allow_html=True)
+
 
